@@ -1,0 +1,1 @@
+Promptrix: сайт для схем, нейросетей и бабок. Загрузи на Vercel или GitHub Pages.
